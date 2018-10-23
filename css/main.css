@@ -4,7 +4,7 @@ html {
 }
 
 body {
-  background: url("../images/starfield.jpg") bottom center;
+  background: url("../images/starfield.png") bottom center;
   background-size: cover;
 }
 
@@ -20,4 +20,16 @@ body {
   background: none;
   color: #b4fff4;
   text-shadow: 1px 1px 5px #b4fff4;
+}
+.height-win-full {
+  height: 900px;
+}
+
+.h-w-1 {
+  height: 100%;
+  vertical-align: center;
+}
+
+.icon {
+  background-image: url("../images/rocket.svg")
 }
